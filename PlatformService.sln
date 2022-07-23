@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlatformService", "PlatformService\PlatformService.csproj", "{DE913699-6383-446D-8982-C97A45CDDB4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "K8S", "K8S", "{3F95237F-A1EC-4670-AA28-95FA1501CF81}"
+	ProjectSection(SolutionItems) = preProject
+		platform-depl.yaml = platform-depl.yaml
+		platform-np-srv.yaml = platform-np-srv.yaml
+		ingress-srv.yaml = ingress-srv.yaml
+		local-pcv.yaml = local-pcv.yaml
+		mssql-plat-depl.yaml = mssql-plat-depl.yaml
+		rabbitmq-depl.yaml = rabbitmq-depl.yaml
+		command-depl.yaml = command-depl.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandService", "CommandService\CommandService.csproj", "{01C245B6-298F-4BA8-8162-8F57CB0233C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE913699-6383-446D-8982-C97A45CDDB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE913699-6383-446D-8982-C97A45CDDB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE913699-6383-446D-8982-C97A45CDDB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE913699-6383-446D-8982-C97A45CDDB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C245B6-298F-4BA8-8162-8F57CB0233C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C245B6-298F-4BA8-8162-8F57CB0233C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C245B6-298F-4BA8-8162-8F57CB0233C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C245B6-298F-4BA8-8162-8F57CB0233C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD4B817A-0A00-4D12-80C7-75BA29BB1D09}
+	EndGlobalSection
+EndGlobal

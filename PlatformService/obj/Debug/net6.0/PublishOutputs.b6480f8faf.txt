@@ -1,0 +1,17 @@
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\PlatformService.exe
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\appsettings.Development.json
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\appsettings.json
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\PlatformService.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\PlatformService.runtimeconfig.json
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\PlatformService.pdb
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\AutoMapper.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\Microsoft.OpenApi.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kishore\OneDrive\Desktop\Micro\PlatformService\PlatformService\obj\rider-publish\PlatformService.deps.json
